@@ -42,5 +42,5 @@ The visualization that is used are:
 
 And I also created a Story based on the same worksheets as the Dashboard.
 
-The web link to view my Tableau Visualization of this dataset is:
-https://public.tableau.com/views/2010512071_AqilaZaharaPutri_UAS_SI_2022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+This is the [Dashboard Dataset Visualization](
+https://public.tableau.com/views/2010512071_AqilaZaharaPutri_UAS_SI_2022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in Tableau
